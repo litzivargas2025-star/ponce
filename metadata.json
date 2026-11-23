@@ -1,0 +1,6 @@
+{
+  "name": "Mente Adolescente: Explora y Juega",
+  "description": "Plataforma interactiva de psicología adolescente en tonos pastel con juegos emocionales, seguimiento, certificado personalizado y paquete XAMPP (PHP + MySQL) descargable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
